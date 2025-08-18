@@ -4,16 +4,16 @@
 https://live.lastlive.org/Arena.Sport.1.HR.HD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=4ea2ad64b8a2188e08266a92b88e85dedb06bcfb-fedc58139124e37d2a44e10fbe33a6a0-1755492353-1755485153
 
 
-#EXTINF:-1 tvg-id="live1",Sport HD
+#EXTINF:-1 tvg-id="live2",Sport HD
 https://server1.lastlive.org/AR.BEIN.SPORTS.1.HEVC.EN/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=9e8f7dca2660e948acb248cf14ec4f8a8af5826d-a3c5ac49af1fb6eb887e7e16271db822-1755492594-1755485394
 
 
-#EXTINF:-1 tvg-id="live1",Sport FHD
+#EXTINF:-1 tvg-id="live3",Sport FHD
 https://stream.lastlive.org/UK.Sky.Sports.Main.Event.FHD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=0489bde40448d8de28bb4b08c5ccee7d7aa73dea-c12ebd6d097f252754dfa65ef7476145-1755492668-1755485468
 
 
-#EXTINF:-1 tvg-id="live1",Sport 2 HD
+#EXTINF:-1 tvg-id="live4",Sport 2 HD
 https://live.lastlive.org/PT.Eleven.Sports.2.HD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=c325899dc529c81bdc3d7f1d992389783ccd8d35-747a722d8cc6f19480be00cbc42ece25-1755492748-1755485548
 
-#EXTINF:-1 tvg-id="live1",Sport 2 FHD
+#EXTINF:-1 tvg-id="live5",Sport 2 FHD
 https://stream-provider.com/path/to/channel5.m3u8
