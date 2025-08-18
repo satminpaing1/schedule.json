@@ -12,11 +12,11 @@
   {
     "id": "live2",
     "eventName": "Premier League",
-    "team1": "Man Utd",
-    "team2": "Liverpool",
-    "date": "20-08-2025",
-    "time": "08:30 PM",
-    "status": "LIVE NOW",
+    "team1": "Chelsea",
+    "team2": "Palace",
+    "date": "17-08-2025",
+    "time": "07:30 PM",
+    "status": "ENDED",
     "streamUrl": "http://another-server.org/live/channel2.m3u8"
   },
   {
@@ -32,21 +32,21 @@
   {
     "id": "live4",
     "eventName": "Movie",
-    "team1": "Action Movie",
+    "team1": "MRTV 4",
     "team2": "",
     "date": "Now Showing",
     "time": "",
-    "status": "MOVIE",
-    "streamUrl": "https://some.url/stream4.m3u8"
+    "status": "LIVE NOW",
+    "streamUrl": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8"
   },
   {
     "id": "live5",
-    "eventName": "Music",
-    "team1": "Live Concert",
+    "eventName": "Movie",
+    "team1": "Channel 7",
     "team2": "",
-    "date": "Continuous",
+    "date": "Now Showing",
     "time": "",
-    "status": "MUSIC",
-    "streamUrl": "http://live.stream/channel5/index.m3u8"
+    "status": "LIVE NOW",
+    "streamUrl": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8"
   }
 ]
