@@ -1,19 +1,52 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="live1",Chelsea Live
-https://live.lastlive.org/Arena.Sport.1.HR.HD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=4ea2ad64b8a2188e08266a92b88e85dedb06bcfb-fedc58139124e37d2a44e10fbe33a6a0-1755492353-1755485153
-
-
-#EXTINF:-1 tvg-id="live2",Sport HD
-https://server1.lastlive.org/AR.BEIN.SPORTS.1.HEVC.EN/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=9e8f7dca2660e948acb248cf14ec4f8a8af5826d-a3c5ac49af1fb6eb887e7e16271db822-1755492594-1755485394
-
-
-#EXTINF:-1 tvg-id="live3",Sport FHD
-https://stream.lastlive.org/UK.Sky.Sports.Main.Event.FHD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=0489bde40448d8de28bb4b08c5ccee7d7aa73dea-c12ebd6d097f252754dfa65ef7476145-1755492668-1755485468
-
-
-#EXTINF:-1 tvg-id="live4",Sport 2 HD
-https://live.lastlive.org/PT.Eleven.Sports.2.HD/tracks-v1a1/mono.m3u8?remote=45.41.104.213&token=c325899dc529c81bdc3d7f1d992389783ccd8d35-747a722d8cc6f19480be00cbc42ece25-1755492748-1755485548
-
-#EXTINF:-1 tvg-id="live5",Sport 2 FHD
-https://stream-provider.com/path/to/channel5.m3u8
+[
+  {
+    "id": "live1",
+    "eventName": "Coppa Italia",
+    "team1": "Udinese",
+    "team2": "Carrarese",
+    "date": "19-08-2025",
+    "time": "01:15 AM",
+    "status": "SCHEDULED",
+    "streamUrl": "https://example.com/path/to/channel1.m3u8"
+  },
+  {
+    "id": "live2",
+    "eventName": "Premier League",
+    "team1": "Man Utd",
+    "team2": "Liverpool",
+    "date": "20-08-2025",
+    "time": "08:30 PM",
+    "status": "LIVE NOW",
+    "streamUrl": "http://another-server.org/live/channel2.m3u8"
+  },
+  {
+    "id": "live3",
+    "eventName": "La Liga",
+    "team1": "Barcelona",
+    "team2": "Real Madrid",
+    "date": "21-08-2025",
+    "time": "02:00 AM",
+    "status": "ENDED",
+    "streamUrl": "https://stream.provider.net/live/ch3/playlist.m3u8"
+  },
+  {
+    "id": "live4",
+    "eventName": "Movie",
+    "team1": "Action Movie",
+    "team2": "",
+    "date": "Now Showing",
+    "time": "",
+    "status": "MOVIE",
+    "streamUrl": "https://some.url/stream4.m3u8"
+  },
+  {
+    "id": "live5",
+    "eventName": "Music",
+    "team1": "Live Concert",
+    "team2": "",
+    "date": "Continuous",
+    "time": "",
+    "status": "MUSIC",
+    "streamUrl": "http://live.stream/channel5/index.m3u8"
+  }
+]
