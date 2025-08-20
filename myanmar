@@ -1,52 +1,42 @@
 [
   {
-    "id": "live1",
-    "eventName": "Coppa Italia",
-    "team1": "Udinese",
-    "team2": "Carrarese",
-    "date": "19-08-2025",
-    "time": "01:15 AM",
-    "status": "SCHEDULED",
-    "streamUrl": "https://example.com/path/to/channel1.m3u8"
-  },
-  {
-    "id": "live2",
-    "eventName": "Premier League",
-    "team1": "Chelsea",
-    "team2": "Palace",
-    "date": "17-08-2025",
-    "time": "07:30 PM",
-    "status": "ENDED",
-    "streamUrl": "http://another-server.org/live/channel2.m3u8"
-  },
-  {
-    "id": "live3",
-    "eventName": "La Liga",
-    "team1": "Barcelona",
-    "team2": "Real Madrid",
-    "date": "21-08-2025",
-    "time": "02:00 AM",
-    "status": "ENDED",
-    "streamUrl": "https://stream.provider.net/live/ch3/playlist.m3u8"
-  },
-  {
-  "id": "live4",
-  "eventName": "Movie",
-  "team1": "MRTV 4",
-  "team2": "",
-  "date": "Now Showing",
-  "time": "",
-  "status": "LIVE NOW",
-  "streamUrl": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8"
-},
-  {
-    "id": "live5",
-    "eventName": "Movie",
-    "team1": "Channel 7",
-    "team2": "",
-    "date": "Now Showing",
-    "time": "",
+    "id": 1,
+    "eventName": "Live TV",
     "status": "LIVE NOW",
-    "streamUrl": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8"
+    "team1": "Mahar TV",
+    "team2": "Entertainment",
+    "date": "August 20, 2025",
+    "time": "NOW",
+    "streamUrl": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8"
+  },
+  {
+    "id": 2,
+    "eventName": "Live TV",
+    "status": "LIVE NOW",
+    "team1": "Channel K",
+    "team2": "Entertainment",
+    "date": "August 20, 2025",
+    "time": "NOW",
+    "streamUrl": "https://live-channel-k.akamaized.net/hls/live/2026199/channel-k/master.m3u8"
+  },
+  {
+    "id": 3,
+    "eventName": "Movie",
+    "status": "MOVIE",
+    "team1": "MVM TV",
+    "team2": "Movies & Series",
+    "date": "August 20, 2025",
+    "time": "24/7",
+    "streamUrl": "https://live.mvmtelevision.com/mvm/live.stream/playlist.m3u8"
+  },
+  {
+    "id": 4,
+    "eventName": "Event Ended",
+    "status": "ENDED",
+    "team1": "Some Event",
+    "team2": "Finished",
+    "date": "August 19, 2025",
+    "time": "10:00 PM",
+    "streamUrl": ""
   }
 ]
