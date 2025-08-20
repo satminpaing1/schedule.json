@@ -5,13 +5,11 @@
     "category": "Entertainment",
     "status": "LIVE NOW",
     "team1": "Mahar TV",
-    "team2": "Entertainment",
+    "team2": "Movies & Series",
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
       { "name": "Server 1 HD", "url": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8" },
-      { "name": "Server 2 SD", "url": "https://stream.b.com/live.m3u8" },
-      { "name": "Server 3", "url": "https://stream.c.com/live.m3u8" }
     ]
   },
   {
@@ -33,26 +31,69 @@
     "category": "Entertainment",
     "status": "LIVE NOW",
     "team1": "Channel 7",
-    "team2": "Movies & Series",
+    "team2": "Entertainment",
     "date": "August 20, 2025",
-    "time": "24/7",
+    "time": "NOW",
     "streamUrls": [
       { "name": "Watch Now", "url": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8" }
     ]
   },
   {
     "id": 4,
+    "eventName": "Live TV",
+    "category": "Entertainment",
+    "status": "LIVE NOW",
+    "team1": "Eleven Sport HD",
+    "team2": "Entertainment",
+    "date": "August 20, 2025",
+    "time": "NOW",
+    "streamUrls": [
+      { "name": "Watch Now", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8" }
+    ]
+  },
+  {
+    "id": 5,
     "eventName": "Event Ended",
     "category": "Football",
-    "status": "ENDED",
+    "status": "Scheduled",
     "team1": "Chelsea vs West Ham",
     "team2": "Football",
     "date": "August 23, 2025",
     "time": "01:00 AM",
     "streamUrls": [
+      { "name": "Server 1 HD", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8" },
+      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
+      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
+    ]
+  },
+  {
+    "id": 6,
+    "eventName": "Event Ended",
+    "category": "Football",
+    "status": "Scheduled",
+    "team1": "Man City vs Tottenham",
+    "team2": "Football",
+    "date": "August 23, 2025",
+    "time": "06:00 PM",
+    "streamUrls": [
       { "name": "Server 1 HD", "url": "https://stream.a.com/live.m3u8" },
-      { "name": "Server 2 SD", "url": "https://stream.b.com/live.m3u8" },
-      { "name": "Server 3", "url": "https://stream.c.com/live.m3u8" }
+      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
+      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
+    ]
+  },
+  {
+    "id": 7,
+    "eventName": "Event Ended",
+    "category": "Football",
+    "status": "Scheduled",
+    "team1": "Arsenal vs Leeds",
+    "team2": "Football",
+    "date": "August 23, 2025",
+    "time": "11:00 PM",
+    "streamUrls": [
+      { "name": "Server 1 HD", "url": "https://stream.a.com/live.m3u8" },
+      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
+      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
     ]
   }
 ]
