@@ -21,7 +21,7 @@
     "team2": "Entertainment",
     "date": "August 20, 2025",
     "time": "NOW",
-    "streamUrls": [  // <-- ဤနေရာကို "streamUrls" နှင့် [ ] bracket ဖြင့် ပြင်ဆင်ထားသည်
+    "streamUrls": [
       { "name": "Watch Now", "url": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8" }
     ]
   },
@@ -33,7 +33,7 @@
     "team2": "Movies & Series",
     "date": "August 20, 2025",
     "time": "24/7",
-    "streamUrls": [  // <-- ဤနေရာကို "streamUrls" နှင့် [ ] bracket ဖြင့် ပြင်ဆင်ထားသည်
+    "streamUrls": [
       { "name": "Watch Now", "url": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8" }
     ]
   },
