@@ -4,12 +4,12 @@
     "eventName": "Live TV",
     "category": "Entertainment",
     "status": "LIVE NOW",
-    "team1": "Mahar TV",
-    "team2": "Movies & Series",
+    "title": "Mahar TV",
+    "subtitle": "Movies & Series",
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8" },
+      { "name": "Server 1 HD", "url": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8" }
     ]
   },
   {
@@ -17,8 +17,8 @@
     "eventName": "Live TV",
     "category": "Entertainment",
     "status": "LIVE NOW",
-    "team1": "MRTV 4",
-    "team2": "Entertainment",
+    "title": "MRTV 4",
+    "subtitle": "Entertainment",
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
@@ -30,8 +30,8 @@
     "eventName": "Live TV",
     "category": "Entertainment",
     "status": "LIVE NOW",
-    "team1": "Channel 7",
-    "team2": "Entertainment",
+    "title": "Channel 7",
+    "subtitle": "Entertainment",
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
@@ -43,8 +43,8 @@
     "eventName": "Live TV",
     "category": "Entertainment",
     "status": "LIVE NOW",
-    "team1": "Eleven Sport HD",
-    "team2": "Entertainment",
+    "title": "Eleven Sport HD",
+    "subtitle": "Entertainment",
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
@@ -53,11 +53,11 @@
   },
   {
     "id": 5,
-    "eventName": "Event Ended",
+    "eventName": "Premier League",
     "category": "Football",
     "status": "Scheduled",
-    "team1": "Chelsea vs West Ham",
-    "team2": "Football",
+    "title": "Chelsea vs West Ham",
+    "subtitle": "Football Match",
     "date": "August 23, 2025",
     "time": "01:00 AM",
     "streamUrls": [
@@ -68,11 +68,11 @@
   },
   {
     "id": 6,
-    "eventName": "Event Ended",
+    "eventName": "Premier League",
     "category": "Football",
     "status": "Scheduled",
-    "team1": "Man City vs Tottenham",
-    "team2": "Football",
+    "title": "Man City vs Tottenham",
+    "subtitle": "Football Match",
     "date": "August 23, 2025",
     "time": "06:00 PM",
     "streamUrls": [
@@ -83,11 +83,11 @@
   },
   {
     "id": 7,
-    "eventName": "Event Ended",
+    "eventName": "Premier League",
     "category": "Football",
     "status": "Scheduled",
-    "team1": "Arsenal vs Leeds",
-    "team2": "Football",
+    "title": "Arsenal vs Leeds",
+    "subtitle": "Football Match",
     "date": "August 23, 2025",
     "time": "11:00 PM",
     "streamUrls": [
