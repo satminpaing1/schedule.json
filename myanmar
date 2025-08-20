@@ -2,6 +2,7 @@
   {
     "id": 1,
     "eventName": "Live TV",
+    "category": "Entertainment",
     "status": "LIVE NOW",
     "team1": "Mahar TV",
     "team2": "Entertainment",
@@ -16,6 +17,7 @@
   {
     "id": 2,
     "eventName": "Live TV",
+    "category": "Entertainment",
     "status": "LIVE NOW",
     "team1": "MRTV 4",
     "team2": "Entertainment",
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "eventName": "Live TV",
+    "category": "Entertainment",
     "status": "LIVE NOW",
     "team1": "Channel 7",
     "team2": "Movies & Series",
@@ -40,6 +43,7 @@
   {
     "id": 4,
     "eventName": "Event Ended",
+    "category": "Football",
     "status": "ENDED",
     "team1": "Chelsea vs West Ham",
     "team2": "Football",
