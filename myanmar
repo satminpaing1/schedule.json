@@ -48,7 +48,7 @@
     "date": "August 20, 2025",
     "time": "NOW",
     "streamUrls": [
-      { "name": "Watch Now", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8" }
+      { "name": "Watch Now", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8?remote=172.207.81.20&token=826ef5999596ab7557fa4987484d736705af2fc6-1b36146e4722f7f25326bd138fcce72e-1755760235-1755753035" }
     ]
   },
   {
@@ -61,7 +61,7 @@
     "date": "August 23, 2025",
     "time": "01:00 AM",
     "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8" },
+      { "name": "Server 1 HD", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8?remote=172.207.81.20&token=826ef5999596ab7557fa4987484d736705af2fc6-1b36146e4722f7f25326bd138fcce72e-1755760235-1755753035" },
       { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
       { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
     ]
