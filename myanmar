@@ -1,99 +1,314 @@
 [
-  {
-    "id": 1,
-    "eventName": "Live TV",
-    "category": "Entertainment",
-    "status": "LIVE NOW",
-    "title": "Mahar TV",
-    "subtitle": "Movies & Series",
-    "date": "August 20, 2025",
-    "time": "NOW",
-    "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8" }
-    ]
-  },
-  {
-    "id": 2,
-    "eventName": "Live TV",
-    "category": "Entertainment",
-    "status": "LIVE NOW",
-    "title": "MRTV 4",
-    "subtitle": "Entertainment",
-    "date": "August 20, 2025",
-    "time": "NOW",
-    "streamUrls": [
-      { "name": "Watch Now", "url": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8" }
-    ]
-  },
-  {
-    "id": 3,
-    "eventName": "Live TV",
-    "category": "Entertainment",
-    "status": "LIVE NOW",
-    "title": "Channel 7",
-    "subtitle": "Entertainment",
-    "date": "August 20, 2025",
-    "time": "NOW",
-    "streamUrls": [
-      { "name": "Watch Now", "url": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8" }
-    ]
-  },
-  {
-    "id": 4,
-    "eventName": "Live TV",
-    "category": "Entertainment",
-    "status": "LIVE NOW",
-    "title": "Eleven Sport HD",
-    "subtitle": "Entertainment",
-    "date": "August 20, 2025",
-    "time": "NOW",
-    "streamUrls": [
-      { "name": "Watch Now", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8?remote=172.207.81.20&token=826ef5999596ab7557fa4987484d736705af2fc6-1b36146e4722f7f25326bd138fcce72e-1755760235-1755753035" }
-    ]
-  },
-  {
-    "id": 5,
-    "eventName": "Premier League",
-    "category": "Football",
-    "status": "Scheduled",
-    "title": "Chelsea vs West Ham",
-    "subtitle": "Football Match",
-    "date": "August 23, 2025",
-    "time": "01:00 AM",
-    "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://live.lastlive.org/PT.Eleven.Sports.1.HD/tracks-v1a1/mono.m3u8?remote=172.207.81.20&token=826ef5999596ab7557fa4987484d736705af2fc6-1b36146e4722f7f25326bd138fcce72e-1755760235-1755753035" },
-      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
-      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
-    ]
-  },
-  {
-    "id": 6,
-    "eventName": "Premier League",
-    "category": "Football",
-    "status": "Scheduled",
-    "title": "Man City vs Tottenham",
-    "subtitle": "Football Match",
-    "date": "August 23, 2025",
-    "time": "06:00 PM",
-    "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://stream.a.com/live.m3u8" },
-      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
-      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
-    ]
-  },
-  {
-    "id": 7,
-    "eventName": "Premier League",
-    "category": "Football",
-    "status": "Scheduled",
-    "title": "Arsenal vs Leeds",
-    "subtitle": "Football Match",
-    "date": "August 23, 2025",
-    "time": "11:00 PM",
-    "streamUrls": [
-      { "name": "Server 1 HD", "url": "https://stream.a.com/live.m3u8" },
-      { "name": "Server 2 FHD", "url": "https://stream.b.com/live.m3u8" },
-      { "name": "Server 3 HD", "url": "https://stream.c.com/live.m3u8" }
-    ]
-  }
+{
+"id": 1,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Big",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/bigdick.m3u8" }
+]
+},
+{
+"id": 2,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Some Adult Channel 2",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/milf.m3u8" }
+]
+},
+{
+"id": 3,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Some Adult Channel 3",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/bigtits.m3u8" }
+]
+},
+{
+"id": 4,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Some Adult Channel 4",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/fetish.m3u8" }
+]
+},
+{
+"id": 5,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Some Adult Channel 5",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/pornstar.m3u8" }
+]
+},
+{
+"id": 6,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Bigass",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/bigass.m3u8" }
+]
+},
+{
+"id": 7,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Interracial",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/interracial.m3u8" }
+]
+},
+{
+"id": 8,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Latina",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/latina.m3u8" }
+]
+},
+{
+"id": 9,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "POV",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/pov.m3u8" }
+]
+},
+{
+"id": 10,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Blow Job",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/blowjob.m3u8" }
+]
+},
+{
+"id": 11,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Teen",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/teen.m3u8" }
+]
+},
+{
+"id": 12,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Hardcore",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/hardcore.m3u8" }
+]
+},
+{
+"id": 13,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Cuckold",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/cuckold.m3u8" }
+]
+},
+{
+"id": 14,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Three Some",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/threesome.m3u8" }
+]
+},
+{
+"id": 15,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Russian",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/russian.m3u8" }
+]
+},
+{
+"id": 16,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Lesbian",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/lesbian.m3u8" }
+]
+},
+{
+"id": 17,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Rough",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/rough.m3u8" }
+]
+},
+{
+"id": 18,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Gang Bang",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/gangbang.m3u8" }
+]
+},
+{
+"id": 19,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Anal",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/anal.m3u8" }
+]
+},
+{
+"id": 20,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Compilation",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/compilation.m3u8" }
+]
+},
+{
+"id": 21,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Brunette",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/brunette.m3u8" }
+]
+},
+{
+"id": 22,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Blonde",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/blonde.m3u8" }
+]
+},
+{
+"id": 23,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Gay",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/gay.m3u8" }
+]
+},
+{
+"id": 24,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Asian",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://cdn.adultiptv.net/asian.m3u8" }
+]
+}
 ]
