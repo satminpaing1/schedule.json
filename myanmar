@@ -299,7 +299,33 @@
 ]
 },
 {
-"id": 24,
+"id": 25,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Young",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://live.mycamtv.com/young.m3u8" }
+]
+},
+{
+"id": 26,
+"eventName": "Adult Zone",
+"category": "Adult",
+"status": "LIVE NOW",
+"title": "Medium",
+"subtitle": "18+",
+"date": "August 28, 2025",
+"time": "NOW",
+"streamUrls": [
+{ "name": "Server 1", "url": "http://live.mycamtv.com/medium.m3u8" }
+]
+},
+{
+"id": 27,
 "eventName": "Adult Zone",
 "category": "Adult",
 "status": "LIVE NOW",
